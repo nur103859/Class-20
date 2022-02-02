@@ -1,0 +1,40 @@
+/* navbar-section */
+
+.navbar{
+    background: #E3F2FD;
+}
+.navbar-brand img{
+    width: 50px;
+}
+
+/* carousel-item */
+
+.carousel-item img{
+    height: 400px;
+}
+
+/* alert */
+
+.alert{
+    background: #E3F2FD;
+}
+.alert strong{
+    color: #155724;
+    font-size: 20px;
+}
+.alert p {
+    margin-bottom: 0;
+    margin-top: 10px;
+    color: #155724;
+}
+
+/* accordion-button */
+
+.accordion-button{
+    color: #499AFD;
+    font-weight: 700;
+}
+.accordion-header{
+    #F7F7F7
+}
+
